@@ -38,6 +38,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -80,6 +81,10 @@
       <updated>1566740302337</updated>
       <workItem from="1566882021578" duration="925000" />
       <workItem from="1568984697659" duration="485000" />
+      <workItem from="1572944544877" duration="166000" />
+      <workItem from="1574397247383" duration="149000" />
+      <workItem from="1574397596249" duration="2642000" />
+      <workItem from="1574411089528" duration="1632000" />
     </task>
     <servers />
   </component>
